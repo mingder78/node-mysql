@@ -7,7 +7,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.0.0"
+    "mysql-simple":"^1.0.3",
+    "express": "^4.0.0",
+    "mysql": "^2.4.3"
   },
   "engines": {
     "node": "0.10.x"
