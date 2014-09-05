@@ -1,6 +1,7 @@
 // mysql
 var database = require('mysql-simple');
-database.init('admin', 'mypass', 'test', '192.168.59.103', 3306);
+//database.init('admin', 'mypass', 'test', '192.168.59.103', 3306);
+database.init('admin', 'mypass', 'test', 'localhost', 3306);
 
 database.query('SELECT * FROM users WHERE active=? LIMIT 10', [true],
       function(err, results)
