@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # node-js-sample -> node-mysql
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
@@ -37,3 +38,9 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
 - [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
 - [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+=======
+node-mysql
+==========
+
+Adding mysql code to node-js-simple 
+>>>>>>> 9c9e931d6d2f17bdf2280a8560a22055fe6f7241
