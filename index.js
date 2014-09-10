@@ -1,3 +1,4 @@
+//test
 // mysql
 var database = require('mysql-simple');
 //database.init('admin', 'mypass', 'test', '192.168.59.103', 3306);
